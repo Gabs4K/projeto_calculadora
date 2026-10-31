@@ -17,6 +17,28 @@
 
 ---
 
+# 2. Visão Geral
+
+O projeto consiste no desenvolvimento de um módulo de cálculos matemáticos básicos em Java para a startup fictícia **FinançApp**.
+
+O módulo foi desenvolvido com o objetivo de ser utilizado futuramente em funcionalidades de controle financeiro, como:
+
+- orçamento mensal;
+- divisão de despesas;
+- projeções financeiras;
+- cálculos auxiliares.
+
+Além do funcionamento correto das operações, o projeto aplica práticas de qualidade de software relacionadas a:
+
+- testes;
+- tratamento de erros;
+- refatoração;
+- documentação;
+- versionamento;
+- manutenção de código.
+
+---
+
 
 
 
