@@ -148,18 +148,8 @@ projeto_calculadora/
 ├── test/
 │   └── calculadora/
 │       └── TesteCalculadora.java
-│
-├── docs/
-│   └── index.html
-│
-├── images/
-│   ├── testes/
-│   ├── javadoc/
-│   └── refatoracao/
-│
-├── README.md
-├── .gitignore
-└── demais arquivos do projeto
+|
+└── README.md
 ```
 ---
 
