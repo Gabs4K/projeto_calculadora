@@ -148,10 +148,10 @@ projeto_calculadora/
 
 | Operador | Operação | Descrição |
 |----------|----------|-----------|
-| `+` | Soma | Adiciona dois números inteiros. |
-| `-` | Subtração | Subtrai o segundo número do primeiro. |
-| `*` | Multiplicação | Multiplica dois números inteiros. |
-| `/` | Divisão | Divide o primeiro número pelo segundo. |
+| `+` | Soma | Realiza a soma de dois números inteiros. |
+| `-` | Subtração | Realiza a subtração de dois números inteiros. |
+| `*` | Multiplicação | Realiza a multiplicação de dois números inteiros. |
+| `/` | Divisão | Realiza a divisão de dois números inteiros. |
 
 Além das operações, o sistema possui tratamentos para situações inválidas:
 
