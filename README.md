@@ -157,16 +157,12 @@ Além das operações, o sistema possui tratamentos para situações inválidas:
 
 - **Divisão por zero:** lança uma exceção `IllegalArgumentException` quando o divisor é zero.
 - **Operador inválido:** lança uma exceção `IllegalArgumentException` quando é informado um operador não suportado.
----
+
 ---
 
 # 10. Evidências dos Testes Funcionais
 
 A imagem abaixo apresenta a execução dos testes funcionais da calculadora, demonstrando o funcionamento das operações matemáticas e o tratamento de situações inválidas.
+<img width="1598" height="670" alt="teste" src="https://github.com/user-attachments/assets/38799142-f575-42d0-80b4-9f39ed4fa037" />
 
-![Execução dos testes funcionais](images/testes/testes-funcionais.png)<img width="1598" height="670" alt="teste" src="https://github.com/user-attachments/assets/38799142-f575-42d0-80b4-9f39ed4fa037" />
-
-
-
-![Uploading teste.png…]()
 
