@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"projeto_calculadora"}];updateSearchResults();
