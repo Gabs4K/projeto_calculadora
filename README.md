@@ -162,7 +162,14 @@ Além das operações, o sistema possui tratamentos para situações inválidas:
 
 # 10. Evidências dos Testes Funcionais
 
-A imagem abaixo apresenta a execução dos testes funcionais da calculadora, demonstrando o funcionamento das operações matemáticas e o tratamento de situações inválidas.
+Após a atualização da classe `TesteCalculadora`, foram realizados testes funcionais para verificar o comportamento das operações matemáticas implementadas.
+
+Os testes contemplam os seguintes cenários:
+- Execução de soma, subtração, multiplicação e divisão;
+- Verificação do tratamento de divisão por zero;
+- Verificação do tratamento de operadores inválidos.
+
+A captura abaixo apresenta o código utilizado e os resultados obtidos no console do Eclipse, demonstrando que os cenários previstos foram executados corretamente.
 <img width="1598" height="670" alt="teste" src="https://github.com/user-attachments/assets/38799142-f575-42d0-80b4-9f39ed4fa037" />
 
 
