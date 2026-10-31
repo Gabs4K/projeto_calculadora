@@ -116,26 +116,6 @@ A aplicação deverá oferecer as seguintes operações:
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 8. Estrutura do Projeto
 
 ```text
@@ -159,9 +139,24 @@ projeto_calculadora/
 │
 │
 └── README.md
- ``` 
- 
+ ```
+---
 
+# 9. Explicação das Operações
+
+ A calculadora realiza quatro operações matemáticas básicas utilizando números inteiros. A operação desejada é identificada pelo operador informado ao método `calcular()`.
+
+| Operador | Operação | Descrição |
+|----------|----------|-----------|
+| `+` | Soma | Adiciona dois números inteiros. |
+| `-` | Subtração | Subtrai o segundo número do primeiro. |
+| `*` | Multiplicação | Multiplica dois números inteiros. |
+| `/` | Divisão | Divide o primeiro número pelo segundo. |
+
+Além das operações, o sistema possui tratamentos para situações inválidas:
+
+- **Divisão por zero:** lança uma exceção `IllegalArgumentException` quando o divisor é zero.
+- **Operador inválido:** lança uma exceção `IllegalArgumentException` quando é informado um operador não suportado.
 ---
 <img width="1255" height="632" alt="image" src="https://github.com/user-attachments/assets/84a7e30f-8463-4119-b126-5bbd2bf91f1e" />
 
