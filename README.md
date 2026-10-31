@@ -172,5 +172,30 @@ Os testes contemplam os seguintes cenários:
 A captura abaixo apresenta o código utilizado e os resultados obtidos no console do Eclipse, demonstrando que os cenários previstos foram executados corretamente.
 <img width="1596" height="656" alt="teste" src="https://github.com/user-attachments/assets/2e5e4385-77d7-4eb6-8b89-92bb1413ff42" />
 
+---
+
+# 11. Documentação JavaDoc
+
+A documentação técnica do projeto foi desenvolvida utilizando JavaDoc, ferramenta integrada ao JDK que permite gerar documentação em formato HTML a partir dos comentários presentes no código-fonte.
+
+Foram documentadas as classes `Calculadora` e `TesteCalculadora`, incluindo suas descrições, métodos, parâmetros, retornos e exceções.
+
+A documentação gerada está disponível na pasta `docs/` do projeto.
+
+## 11.1 Evidências da Documentação
+
+**Documentação da classe Calculadora:**
+
+<img width="1544" height="742" alt="image" src="https://github.com/user-attachments/assets/9f7abf9b-9251-46b5-9463-9e22b2af77de" />
+
+
+**Documentação dos métodos de operações matemáticas:**
+
+<img width="1541" height="687" alt="image" src="https://github.com/user-attachments/assets/06a1a18b-241f-4675-b8c0-1be37ddd5a4d" />
+
+
+**Documentação dos métodos de divisão e cálculo:**
+
+<img width="1525" height="670" alt="image" src="https://github.com/user-attachments/assets/c95a5d34-dc59-4153-a972-49c64177109d" />
 
 
