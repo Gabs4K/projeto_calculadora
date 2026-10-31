@@ -46,7 +46,7 @@ Durante o desenvolvimento da aplicação FinançApp, foi identificada a necessid
 Entretanto, a equipe definiu que o módulo não deveria apenas funcionar corretamente, mas também apresentar:
 
 - código legível;
-- testes automatizados;
+- testes funcionais;
 - tratamento de falhas;
 - documentação técnica;
 - controle de versões;
@@ -67,7 +67,7 @@ Desenvolver uma calculadora em Java aplicando práticas de qualidade, testes, do
 - implementar operações matemáticas básicas;
 - tratar entradas inválidas;
 - impedir divisão por zero;
-- desenvolver testes automatizados;
+- desenvolver testes funcionais para validar as operações e o tratamento de erros;
 - refatorar o código sem alterar seu comportamento;
 - documentar classes e métodos com JavaDoc;
 - gerar documentação HTML;
@@ -96,7 +96,7 @@ A aplicação deverá oferecer as seguintes operações:
 | ID | Categoria | Requisito |
 |---|---|---|
 | RNF01 | Qualidade | O código deve possuir organização e legibilidade |
-| RNF02 | Testabilidade | As operações devem possuir testes automatizados |
+| RNF02 | Testabilidade | As operações devem possuir cenários de teste que permitam verificar os resultados esperados. |
 | RNF03 | Manutenção | O código deve permitir refatoração sem alteração funcional |
 | RNF04 | Documentação | Classes e métodos devem possuir JavaDoc |
 | RNF05 | Versionamento | O projeto deve utilizar Git e GitHub |
