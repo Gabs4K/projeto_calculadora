@@ -198,4 +198,26 @@ A documentação gerada está disponível na pasta `docs/` do projeto.
 
 <img width="1525" height="670" alt="image" src="https://github.com/user-attachments/assets/c95a5d34-dc59-4153-a972-49c64177109d" />
 
+---
+
+# 12. Evidências da Refatoração
+
+A refatoração teve como objetivo melhorar a organização, a legibilidade e a manutenção do código, preservando as funcionalidades da calculadora.
+
+As principais alterações realizadas foram:
+- Separação das operações matemáticas em métodos específicos;
+- Substituição de nomes genéricos por nomes mais descritivos;
+- Organização da lógica de seleção de operações com `switch`;
+- Implementação de tratamento de exceções para divisão por zero e operadores inválidos;
+- Inclusão de documentação JavaDoc.
+
+**Classe Calculadora após a refatoração:**
+<img width="835" height="715" alt="image" src="https://github.com/user-attachments/assets/55bd83d5-5cff-433a-8986-2d9aa29e502f" />
+<img width="808" height="693" alt="image" src="https://github.com/user-attachments/assets/5969559a-925c-4dc3-9d09-2c6d67ebeb7e" />
+
+
+**Classe TesteCalculadora após a refatoração:**
+<img width="875" height="575" alt="image" src="https://github.com/user-attachments/assets/b14b0b4e-a1b2-4bca-95cf-dff9b5d82d28" />
+
+
 
