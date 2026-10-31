@@ -219,5 +219,16 @@ As principais alterações realizadas foram:
 **Classe TesteCalculadora após a refatoração:**
 <img width="875" height="575" alt="image" src="https://github.com/user-attachments/assets/b14b0b4e-a1b2-4bca-95cf-dff9b5d82d28" />
 
+---
 
+# 13. Repositório GitHub
 
+O projeto está disponível no GitHub, com o código-fonte, a documentação JavaDoc, as evidências dos testes e as versões organizadas em branches.
+
+**Repositório:** [projeto_calculadora](https://github.com/Gabs4K/projeto_calculadora)
+
+**Branches:**
+- `main`: versão original do projeto.
+- `Refatoracao`: versão refatorada, documentada e com as evidências da atividade.
+
+---
