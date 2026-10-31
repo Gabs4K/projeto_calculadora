@@ -170,6 +170,7 @@ Os testes contemplam os seguintes cenários:
 - Verificação do tratamento de operadores inválidos.
 
 A captura abaixo apresenta o código utilizado e os resultados obtidos no console do Eclipse, demonstrando que os cenários previstos foram executados corretamente.
-<img width="1598" height="670" alt="teste" src="https://github.com/user-attachments/assets/38799142-f575-42d0-80b4-9f39ed4fa037" />
+<img width="1596" height="656" alt="teste" src="https://github.com/user-attachments/assets/2e5e4385-77d7-4eb6-8b89-92bb1413ff42" />
+
 
 
