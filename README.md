@@ -160,3 +160,14 @@ projeto_calculadora/
 ├── README.md
 ├── .gitignore
 └── demais arquivos do projeto
+```
+---
+
+## 9. Versões do Projeto
+
+O repositório possui duas branches:
+
+- **main:** contém a versão original da calculadora, antes da refatoração.
+- **Refatoracao:** contém a versão refatorada, com documentação JavaDoc, evidências dos testes e registros das melhorias realizadas.
+
+Para consultar a versão completa da atividade, acesse a branch **Refatoracao**.
