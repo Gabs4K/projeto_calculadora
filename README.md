@@ -16,3 +16,29 @@
 **Semestre:** 2026.2  
 
 ---
+
+
+# 8. Estrutura do Projeto
+
+```text
+projeto_calculadora/
+│
+├── src/
+│   └── calculadora/
+│       └── Calculadora.java
+│
+├── test/
+│   └── calculadora/
+│       └── TesteCalculadora.java
+│
+├── docs/
+│   └── index.html
+│
+├── images/
+│   ├── testes/
+│   ├── javadoc/
+│   └── refatoracao/
+│
+├── README.md
+├── .gitignore
+└── demais arquivos do projeto
