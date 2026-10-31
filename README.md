@@ -17,6 +17,7 @@
 
 ---
 
+<img width="1255" height="632" alt="image" src="https://github.com/user-attachments/assets/84a7e30f-8463-4119-b126-5bbd2bf91f1e" />
 
 # 8. Estrutura do Projeto
 
