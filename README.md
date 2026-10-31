@@ -122,7 +122,8 @@ A aplicação deverá oferecer as seguintes operações:
 projeto_calculadora/
 │
 ├── docs/
-│   └── index.html
+│   ├── index.html
+|   └── demais arquivos da documentação JavaDoc
 |
 ├── images/
 │   ├── javadoc/
