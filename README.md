@@ -144,7 +144,7 @@ projeto_calculadora/
 
 # 9. Explicação das Operações
 
- A calculadora realiza quatro operações matemáticas básicas utilizando números inteiros. A operação desejada é identificada pelo operador informado ao método `calcular()`.
+A calculadora realiza quatro operações matemáticas básicas utilizando números inteiros. A operação desejada é identificada pelo operador informado ao método `calcular()`.
 
 | Operador | Operação | Descrição |
 |----------|----------|-----------|
